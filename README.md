@@ -1,10 +1,3 @@
-# React Vite Template
+# Vitest Browser Mode Starter
 
-## Features
-
-- Tailwind CSS
-- React Testing Library
-- ESLint
-- Prettier
-- Vitest
-- TypeScript
+This repo is a template that implements vitest browser mode without the use of RTL.
